@@ -48,7 +48,7 @@ var options = {
   }
 
     setTimeout(() => {
-        console.log('TimeOut');
+        // console.log('TimeOut');
         getWeatherData();    
     },1000)
     setInterval(() => {
